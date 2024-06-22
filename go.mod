@@ -19,6 +19,7 @@ require (
 	github.com/gohugoio/hugo v0.127.0 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
 	github.com/google/uuid v1.6.0 // indirect
+	github.com/jdhenke/shared-conn v0.0.0-20151114224017-c55637fcba36 // indirect
 	github.com/joho/godotenv v1.5.1 // indirect
 	github.com/klauspost/compress v1.17.9 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
